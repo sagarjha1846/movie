@@ -1,0 +1,17 @@
+body{
+	background-color: black;
+	color: white;	
+}
+
+h1{
+	background-color: blue;
+	padding: 5px;
+}
+
+input{
+	align-items: center;
+}
+.searhform{
+	background-color: grey;
+	padding: 10px;
+}
